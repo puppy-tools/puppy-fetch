@@ -55,6 +55,8 @@ cargo install --path puppy-fetch
   - [ ] Better documented `clap` arguments
   - [ ] Interactive mode (TUI)
 
-- [ ] Repository
+- [ ] Repository 
   - [ ] Official binary releases
+  - [ ] Crates.io releases
+  - [ ] Install as library
   - [X] Github workflows
